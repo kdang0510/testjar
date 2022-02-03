@@ -5,16 +5,16 @@
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>f57bb8da-c569-41e0-9c9d-2607707161e9</testSuiteGuid>
    <testCaseLink>
-      <guid>df9d8a83-e67e-4f91-87ae-153408463e0d</guid>
+      <guid>c76282bf-998d-4af6-9903-124a11d16dbf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/New Test Case</testCaseId>
+      <testCaseId>Test Cases/TC1</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
